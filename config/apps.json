@@ -1,0 +1,9 @@
+{
+  "//": "Liste des logiciels a installer automatiquement. 'id' = identifiant winget (winget search <nom> pour le trouver).",
+  "apps": [
+    { "name": "7-Zip", "id": "7zip.7zip" },
+    { "name": "Google Chrome", "id": "Google.Chrome" },
+    { "name": "VLC Media Player", "id": "VideoLAN.VLC" },
+    { "name": "Notepad++", "id": "Notepad++.Notepad++" }
+  ]
+}
